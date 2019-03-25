@@ -2,11 +2,11 @@
 
 ## Recriando o famoso jogo do Tetris em python3 com pygame, aplicação gerada apenas com intuitos acadêmicos, afim de treinar minha lógica de programação.
 
-Faça um bom uso do código, treine sua logíca, recomendo até criar um tretis mais otimizavél com base no meu :)
+_Faça um bom uso do código, treine sua logíca, recomendo até criar um tretis mais otimizavél com base no meu :)_
 
 **È necessário instalar o pygame antes, para isso bastar utilizar o comando "pip install pygame"**
 
-## Historia do Tetris :)
+## Vamos a historia...
 
 **Exemplo de jogo inspirado em Tetris**
 Tetris (em russo: Тетрис) é um jogo electrônico muito popular, desenvolvido por Alexey Pajitnov, Dmitry Pavlovsky e Vadim Gerasimov, e lançado em Junho de 1984. Pajitnov e Pavlovsky eram engenheiros informáticos no Centro de Computadores da Academia Russa das Ciências e Vadim era um aluno com 16 anos.
